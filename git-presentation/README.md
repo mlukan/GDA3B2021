@@ -55,7 +55,16 @@ Remove modified file from the commit stage (does not delete the file, just does 
 Commit your modified files (after `git add`). Creates a snapshot (file version) in your local copy of the repository.Commit message will be the commit description. 
 
 `git push`  
-Pushes your local commit to the remote repository
+Pushes your local commit to the remote repository  
+
+`git checkout <branch name>`  
+Switch to "<branch name>".You must commit your changes before switching branches.  
+   
+`git branch --list`  
+List all available branches   
+
+`git branch <branch name>`  
+Create branch "<branch name>"  
 
 # Merge/pull requests
 **TBD**
