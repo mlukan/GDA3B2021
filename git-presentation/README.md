@@ -1,7 +1,7 @@
 # Git - a distributed version control system
 [Git web page](https://git-scm.com/) 
 ### Watch this youtube videos for more info
-[https://www.youtube.com/watch?v=w3jLJU7DT5E](https://www.youtube.com/watch?v=w3jLJU7DT5E) 
+[https://www.youtube.com/watch?v=w3jLJU7DT5E](https://www.youtube.com/watch?v=w3jLJU7DT5E)  
 [https://www.youtube.com/watch?v=SWYqp7iY_Tc](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
 
 ## Install git
@@ -36,23 +36,23 @@
 Check the status of your git filesystem .
 Returns status of all modifications (modified files, untracked files, unmerged commits etc) on your local copy. **It does not return the status of the remote (origin)!**  
 
-`git pull` 
+`git pull`  
 Downloads the current status of the remote repository. 
 **It is a good idea to make a pull before starting making any changes  
 
-`git add <file name>`
+`git add <file name>`  
 Add modified/untracked file to the commit stage
 
 `git add -A`  
 Add all modified and untracked files to the commit stage  
 
-`git rm --cache <file>` 
+`git rm --cache <file>`  
 Remove modified file from the commit stage (does not delete the file, just does not include the modified version in the commit) 
 
-`git commit -m "<Commit message here>"` 
+`git commit -m "<Commit message here>"`  
 Commit your modified files (after `git add`). Creates a snapshot (file version) in your local copy of the repository.Commit message will be the commit description. 
 
-`git push` 
+`git push`  
 Pushes your local commit to the remote repository
 
 # Gitflow
@@ -73,5 +73,6 @@ Official DT gitlab instance. Everyone with EMEA1,EMEA2 or ZAM account can regist
 2. Provides CI/CD integration
 3. 2-factor authentication using OTP authenticator
 4. Command line access allowed using https with access token
-  
 
+### Here you can create your access token in gitlab:
+User > Preferences > Access tokens  
