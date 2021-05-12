@@ -27,7 +27,7 @@
 4. Check files, check `git status`
 
 > There are multiple access options. If the registry is private, you might have to ask the owner to \
-  give you SSH access, in which case he'll have to register your SSH key her:
+  give you SSH access, in which case he'll have to register your SSH key here:
 
 ![Here you can save your ssh key](files/github_ssh_keys.png)
 
@@ -38,7 +38,7 @@ Returns status of all modifications (modified files, untracked files, unmerged c
 
 `git pull`  
 Downloads the current status of the remote repository. 
-**It is a good idea to make a pull before starting making any changes  
+**It is always a good idea to make a pull before starting to make any changes  
 
 `git add <file name>`  
 Add modified/untracked file to the commit stage
@@ -55,8 +55,10 @@ Commit your modified files (after `git add`). Creates a snapshot (file version) 
 `git push`  
 Pushes your local commit to the remote repository
 
+# Merge/pull requests
+**TBD**
 # Gitflow
-Git workflow designed  to enforce  clean repository structure and seamless CI/CD. 
+Git workflow is designed  to enforce  clean repository structure and seamless CI/CD. 
 [https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow) 
 
 Provides additional commands that support easy maintenance of workflows as the one depicted [here](files/BCE-gitflow.io): 
