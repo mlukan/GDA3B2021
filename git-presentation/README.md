@@ -58,13 +58,13 @@ Commit your modified files (after `git add`). Creates a snapshot (file version) 
 Pushes your local commit to the remote repository  
 
 `git checkout <branch name>`  
-Switch to "<branch name>".You must commit your changes before switching branches.  
+Switch to "branch name".You must commit your changes before switching branches.  
    
 `git branch --list`  
 List all available branches   
 
 `git branch <branch name>`  
-Create branch "<branch name>"  
+Create branch "branch name"  
 
 # Merge/pull requests
 **TBD**
