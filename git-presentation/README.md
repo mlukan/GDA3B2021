@@ -1,7 +1,9 @@
 # Git - a distributed version control system
 [Git web page](https://git-scm.com/) 
-### Watch this youtube videos for more info
+### Watch this youtube videos for more info on:
+Github  
 [https://www.youtube.com/watch?v=w3jLJU7DT5E](https://www.youtube.com/watch?v=w3jLJU7DT5E)  
+Git and github use  
 [https://www.youtube.com/watch?v=SWYqp7iY_Tc](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
 
 ## Install git
