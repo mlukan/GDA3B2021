@@ -1,0 +1,37 @@
+Mammals can use their intestines to breathe
+May 14, 2021
+Cell Press
+Rodents and pigs share with certain aquatic organisms the ability to use their intestines for respiration, a new study finds. The researchers
+demonstrated that the delivery of oxygen gas or oxygenated liquid through the rectum provided vital rescue to two mammalian models of
+respiratory failure.
+FULL STORY
+Mouse (stock image).
+Credit: © creativenature.nl / stock.adobe.com
+Rodents and pigs share with certain aquatic organisms the ability to use their intestines for respiration, finds a study
+publishing May 14th in the journal Med. The researchers demonstrated that the delivery of oxygen gas or oxygenated
+liquid through the rectum provided vital rescue to two mammalian models of respiratory failure.
+5/18/2021 Mammals can use their intestines to breathe -- ScienceDaily
+https://www.sciencedaily.com/releases/2021/05/210514134205.htm 2/3
+"Artificial respiratory support plays a vital role in the clinical management of respiratory failure due to severe illnesses such as pneumonia or acute
+respiratory distress syndrome," says senior study author Takanori Takebe of the Tokyo Medical and Dental University and the Cincinnati Children's
+Hospital Medical Center. "Although the side effects and safety need to be thoroughly evaluated in humans, our approach may offer a new paradigm to
+support critically ill patients with respiratory failure."
+Several aquatic organisms have evolved unique intestinal breathing mechanisms to survive under low-oxygen conditions using organs other than lungs
+or gills. For example, sea cucumbers, freshwater fish called loaches, and certain freshwater catfish use their intestines for respiration. But it has been
+heavily debated whether mammals have similar capabilities.
+In the new study, Takebe and his collaborators provide evidence for intestinal breathing in rats, mice, and pigs. First, they designed an intestinal gas
+ventilation system to administer pure oxygen through the rectum of mice. They showed that without the system, no mice survived 11 minutes of extremely
+low-oxygen conditions. With intestinal gas ventilation, more oxygen reached the heart, and 75% of mice survived 50 minutes of normally lethal lowoxygen conditions.
+Because the intestinal gas ventilation system requires abrasion of the intestinal muscosa, it is unlikely to be clinically feasible, especially in severely ill
+patients -- so the researchers also developed a liquid-based alternative using oxygenated perfluorochemicals. These chemicals have already been
+shown clinically to be biocompatible and safe in humans.
+The intestinal liquid ventilation system provided therapeutic benefits to rodents and pigs exposed to non-lethal low-oxygen conditions. Mice receiving
+intestinal ventilation could walk farther in a 10% oxygen chamber, and more oxygen reached their heart, compared to mice that did not receive intestinal
+ventilation. Similar results were evident in pigs. Intestinal liquid ventilation reversed skin pallor and coldness and increased their levels of oxygen, without
+producing obvious side effects. Taken together, the results show that this strategy is effective in providing oxygen that reaches circulation and alleviates
+respiratory failure symptoms in two mammalian model systems.
+With support from the Japan Agency for Medical Research and Development to combat the coronavirus disease 2019 (COVID-19) pandemic, the
+researchers plan to expand their preclinical studies and pursue regulatory steps to accelerate the path to clinical translation.
+"The recent SARS-CoV-2 pandemic is overwhelming the clinical need for ventilators and artificial lungs, resulting in a critical shortage of available
+devices, and endangering patients' lives worldwide," Takebe says. "The level of arterial oxygenation provided by our ventilation system, if scaled for
+human application, is likely sufficient to treat patients with severe respiratory failure, potentially providing life-saving oxygenation."
