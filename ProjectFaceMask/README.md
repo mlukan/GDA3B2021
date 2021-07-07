@@ -1,5 +1,5 @@
 # Face mask detection project
-Project is based on the ![Kaggle face mask competition andrewmvd](https://www.kaggle.com/andrewmvd/face-mask-detection)  
+Project is based on the [Kaggle face mask competition andrewmvd](https://www.kaggle.com/andrewmvd/face-mask-detection)  
 Dataset contains approximately 850 images with 4072 faces + xml annotations.  
 Faces  were extracted using image coordinate metadata, cropped and resized.  
 SVM and CNN models were fitted.  
